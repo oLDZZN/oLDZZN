@@ -11,11 +11,19 @@ Meu foco é transformar processos manuais e ideias de comunidade em sistemas org
 - Automações para reduzir tarefas repetitivas e centralizar fluxos.
 - Ferramentas personalizadas para comunidades, equipes e pequenos negócios.
 
-## Projeto em destaque
+## Projetos em destaque
 
 ### [LDZZN — Portfólio](https://github.com/oLDZZN/ldzzn-portfolio)
 
 Portfólio interativo criado com React, TypeScript, Tailwind CSS, Framer Motion e WebGL. Apresenta meus projetos, processo de desenvolvimento, serviços e formas de contato.
+
+### [Zenix TicketSystem](https://github.com/oLDZZN/zenix-ticketsystem)
+
+Sistema autônomo de atendimento para Discord com canais privados, controle de fluxo, transcripts HTML e persistência em MongoDB.
+
+### [Minecraft Discord Bot](https://github.com/oLDZZN/minecraft-discord-bot)
+
+Ponte de operação e moderação entre Discord e Minecraft, com relay de chat, inventário visual e um fluxo seguro de punições.
 
 ## Tecnologias
 
