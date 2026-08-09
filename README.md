@@ -13,9 +13,11 @@ Meu foco é transformar processos manuais e ideias de comunidade em sistemas org
 
 ## Projetos em destaque
 
-### [LDZZN — Portfólio](https://github.com/oLDZZN/ldzzn-portfolio)
+### [LDZZN — Portfólio](https://hub.ldzzn.workers.dev)
 
 Portfólio interativo criado com React, TypeScript, Tailwind CSS, Framer Motion e WebGL. Apresenta meus projetos, processo de desenvolvimento, serviços e formas de contato.
+
+[Acessar código-fonte](https://github.com/oLDZZN/ldzzn-portfolio)
 
 ### [Zenix TicketSystem](https://github.com/oLDZZN/zenix-ticketsystem)
 
