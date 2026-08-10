@@ -19,7 +19,7 @@ Portfólio interativo criado com React, TypeScript, Tailwind CSS, Framer Motion 
 
 ### [Zenix TicketSystem](https://github.com/oLDZZN/zenix-ticketsystem)
 
-Sistema autônomo de atendimento para Discord com canais privados, controle de fluxo, transcripts HTML e persistência em MongoDB.
+Case público de arquitetura de um sistema privado de atendimento para Discord, com canais privados, controle de fluxo, transcripts HTML e persistência em MongoDB. O código-fonte permanece privado.
 
 ### [Minecraft Discord Bot](https://github.com/oLDZZN/minecraft-discord-bot)
 
