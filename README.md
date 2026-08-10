@@ -17,6 +17,10 @@ Meu foco é transformar processos manuais e ideias de comunidade em sistemas org
 
 Portfólio interativo criado com React, TypeScript, Tailwind CSS, Framer Motion e WebGL. Apresenta meus projetos, processo de desenvolvimento, serviços e formas de contato.
 
+### [Zenix Platform — Showcase](https://github.com/oLDZZN/zenix-platform-showcase)
+
+Showcase técnico do meu principal ecossistema privado: um monorepo com aplicativos para Discord, API REST e pacotes compartilhados para dados, regras de negócio e operações internas.
+
 ### [Zenix TicketSystem](https://github.com/oLDZZN/zenix-ticketsystem)
 
 Case público de arquitetura de um sistema privado de atendimento para Discord, com canais privados, controle de fluxo, transcripts HTML e persistência em MongoDB. O código-fonte permanece privado.
