@@ -17,15 +17,13 @@ Meu foco é transformar processos manuais e ideias de comunidade em sistemas org
 
 Portfólio interativo criado com React, TypeScript, Tailwind CSS, Framer Motion e WebGL. Apresenta meus projetos, processo de desenvolvimento, serviços e formas de contato.
 
-[Acessar código-fonte](https://github.com/oLDZZN/ldzzn-portfolio)
-
 ### [Zenix TicketSystem](https://github.com/oLDZZN/zenix-ticketsystem)
 
 Sistema autônomo de atendimento para Discord com canais privados, controle de fluxo, transcripts HTML e persistência em MongoDB.
 
 ### [Minecraft Discord Bot](https://github.com/oLDZZN/minecraft-discord-bot)
 
-Ponte de operação e moderação entre Discord e Minecraft, com relay de chat, inventário visual e um fluxo seguro de punições.
+Case público de arquitetura de uma ponte privada entre Discord e Minecraft, com relay de chat, inventário visual e um fluxo seguro de punições. O código-fonte permanece privado.
 
 ## Tecnologias
 
